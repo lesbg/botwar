@@ -1,0 +1,2 @@
+# botwar
+Python botwar framework
